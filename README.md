@@ -5,6 +5,9 @@ This web app provides farmers with tailored weather forecasts, climate insights,
 
 **Live Version:** https://agricultural-webapp.netlify.app/
 
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/27e30a47-bfa5-4580-b2e1-313b27b347d5" />
+
+
 ## Features
 - **Daily Weather Forecasts:**
   - Temperature, rainfall, wind speed, and humidity predictions.
