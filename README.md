@@ -5,7 +5,8 @@ This web app provides farmers with tailored weather forecasts, climate insights,
 
 **Live Version:** https://agricultural-webapp.netlify.app/
 
-<img width="1213" alt="image" src="https://github.com/user-attachments/assets/27e30a47-bfa5-4580-b2e1-313b27b347d5" />
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/2d51d0a2-cab9-4d61-be43-defb980ccf3d" />
+
 
 
 ## Features
