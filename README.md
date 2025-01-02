@@ -3,7 +3,7 @@
 ## Overview
 This web app provides farmers with tailored weather forecasts, climate insights, and actionable recommendations to enhance agricultural productivity. By leveraging hyper-local weather data and predictive analytics, it helps farmers make informed decisions about planting, irrigation, pest management, and harvesting.
 
-**Live Version:** https://bejewelled-gaufre-c2f12b.netlify.app/
+**Live Version:** https://agricultural-webapp.netlify.app/
 
 ## Features
 - **Daily Weather Forecasts:**
